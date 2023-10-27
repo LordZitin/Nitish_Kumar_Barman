@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LordZitin
-- 👀 I’m interested in Android App Develepment
-- 🌱 I’m currently learning android basics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @NitishKumarBarman
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning psychology
+- 💞️ I’m looking to collaborate on Social Development through AI
+- 📫 How to reach me https://t.me/AgentZ
 
 <!---
 LordZitin/LordZitin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
